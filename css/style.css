@@ -450,6 +450,7 @@ input:focus {
 .sign_up 
 {
 	text-align: center;
+	margin-bottom: 3em;
 }
 .sign_up a{
 	color: #FFF;
@@ -1326,6 +1327,10 @@ p.para1 {
 	height: 200px;
 	margin: 0 auto;
 	}
+	.main_left span {
+	width: 500px;
+	height: 300px;
+	}
 
 	.learn {
 	float: none;
@@ -1396,6 +1401,15 @@ p.para1 {
 	.main {
 	margin-top: 3em;
 	}
+	.main_left {
+		float: none;
+		display: none;
+	}
+	.main_left span {
+	float: none;
+	height: 200px;
+	}
+
 	.arrow_btn {
 	background: url(../images/arrow_btnh1.png) no-repeat 340px 6px;
 	}
@@ -1439,6 +1453,15 @@ p.para1 {
 	.main_left h2 {
 	font-size: 1.5em;
 	}
+	.main_left {
+		float: none;
+		display: none;
+	}
+	.main_left span {
+	float: none;
+	height: 200px;
+	}
+
 	.learn {
 	float: none;
 	margin: 1em 0em;
@@ -1515,7 +1538,7 @@ p.para1 {
 	text-align: center;
 	margin-left: 3em;
 	}
-	.navicon {
+	.navicon { 
 	left: 22px;
 	}
 	.sign-ligin-btns ul li a.signup span, .sign-ligin-btns ul li a.login span{
@@ -1530,6 +1553,16 @@ p.para1 {
 	.main_left {
 	margin-top: 2.5em;
 	}
+	.main_left {
+		float: none;
+		display: none;
+	}
+	.main_left span {
+	float: none;
+	width: 300px;
+	height: 200px;
+	}
+
 	.main {
 	margin-top: 0em;
 	}
