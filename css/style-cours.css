@@ -55,9 +55,7 @@ h2{
     letter-spacing:2px
 }
 
-a .site {
-    font-weight: 700;
-}
+
 .channels{
     display:flex;
     max-width:400px;
